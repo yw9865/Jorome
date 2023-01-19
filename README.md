@@ -1,2 +1,2 @@
-# kakarotalk
-Super Saiyan version of kakaotalk
+# Jorome
+Play with chrome browser for learning js
